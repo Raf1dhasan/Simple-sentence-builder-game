@@ -1,0 +1,10 @@
+D:\Study\COMP 2210 Programming Methods\Assignment 3\Sentence_Builder\Sentence_Builder\bin\Debug\Sentence_Builder.exe.config
+D:\Study\COMP 2210 Programming Methods\Assignment 3\Sentence_Builder\Sentence_Builder\bin\Debug\Sentence_Builder.exe
+D:\Study\COMP 2210 Programming Methods\Assignment 3\Sentence_Builder\Sentence_Builder\bin\Debug\Sentence_Builder.pdb
+D:\Study\COMP 2210 Programming Methods\Assignment 3\Sentence_Builder\Sentence_Builder\obj\Debug\Sentence_Builder.csproj.AssemblyReference.cache
+D:\Study\COMP 2210 Programming Methods\Assignment 3\Sentence_Builder\Sentence_Builder\obj\Debug\Sentence_Builder.Form1.resources
+D:\Study\COMP 2210 Programming Methods\Assignment 3\Sentence_Builder\Sentence_Builder\obj\Debug\Sentence_Builder.Properties.Resources.resources
+D:\Study\COMP 2210 Programming Methods\Assignment 3\Sentence_Builder\Sentence_Builder\obj\Debug\Sentence_Builder.csproj.GenerateResource.cache
+D:\Study\COMP 2210 Programming Methods\Assignment 3\Sentence_Builder\Sentence_Builder\obj\Debug\Sentence_Builder.csproj.CoreCompileInputs.cache
+D:\Study\COMP 2210 Programming Methods\Assignment 3\Sentence_Builder\Sentence_Builder\obj\Debug\Sentence_Builder.exe
+D:\Study\COMP 2210 Programming Methods\Assignment 3\Sentence_Builder\Sentence_Builder\obj\Debug\Sentence_Builder.pdb

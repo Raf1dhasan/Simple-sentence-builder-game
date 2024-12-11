@@ -40,6 +40,11 @@ The **Simple Sentence Builder Game** was created to:
 - **C#**
 - **.NET Framework**
 
+## Screenshots
+
+![Home Page](ss3.png)
+
+
 ## How to Run
 1. Clone the repository:
    ```bash
